@@ -16,7 +16,7 @@ It contains more in depth visualizations ( Heatmaps and spatial visualizations )
 The analysis is broken up into 3 sections:
 - Data Loading and Preparation ( same as the " Uber Basic Data Analysis " notebook ).
 - Cross Analysis through heatmaps.
-- Spatial visualization.
+- Spatial visualization and animation.
 <br>
 
 The datasets can be found on <a href="https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data">https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data</a>.
