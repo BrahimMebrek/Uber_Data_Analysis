@@ -2,7 +2,7 @@
 
 This notebook contains a basic analysis through some visualizations of the Uber Pickups in New York City data set using Python.
 
-The analysis is broken up into 2 sections:  
+The analysis is broken up into 3 sections:  
   - Data Loading and Preparation.
   - Exploration and visualization of pickups from April to September 2014. 
   - Conclusion.
