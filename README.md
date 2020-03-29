@@ -23,4 +23,13 @@ The datasets can be found on <a href="https://github.com/fivethirtyeight/uber-tl
 
 Make sure to put the downloaded datasets in a folder named " data ".
 
+
+### Resources
+- How Uber Uses Data Analytics : https://www.upgrad.com/blog/how-uber-uses-data-analytics-for-supply-positioning-and-segmentation/
+- Engineering intelligence : https://eng.uber.com/data-visualization-intelligence/
+- The pulse of a City : https://eng.uber.com/data-visualization-city-movement/
+- Speed and acceleration monitoring : https://www.chicagotribune.com/news/breaking/ct-uber-telematics-getting-around-20161218-column.html
+- Kaggle : https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
+- Machine learning implementations : https://www.geekwire.com/2016/uber-collapse-without-pattern-finding-computers-says-chief-machine-learning/
+
 ### Created by MEBREK Brahim.
